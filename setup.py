@@ -11,9 +11,9 @@ setup(
     ],    # 把所有需要安装的包都写在这里
     author='escapist',    # 作者
     description='Photometric Stereo Package',
-    # long_description=open('README.md', encoding='utf-8').read(),
-    # long_description_content_type='text/markdown',
-    url='https://github.com/flzt11/TEST.git',    # 请修改为自己的github仓库地址
+    long_description=open('README.md', encoding='utf-8').read(),
+    long_description_content_type='text/markdown',
+    url='https://github.com/escapistmost/t5trans',    # 请修改为自己的github仓库地址
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
