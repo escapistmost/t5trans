@@ -37,6 +37,7 @@ https://pan.baidu.com/s/1TMbs6OGJC4daS7tqqFlLAw?pwd=ggnm
 print(t5trans.trans_en2ch('hello world'), cache_dir='./my_model/')
 ```
 上面对应的文件夹相对格式是这样的：
-main.py  ——你运行文件时的相对路径
-my_model ——文件夹
-    models--utrobinmv--t5_translate_en_ru_zh_small_1024 ——模型文件
+
+    main.py  ——你运行文件时的相对路径
+    my_model ——文件夹
+        models--utrobinmv--t5_translate_en_ru_zh_small_1024 ——模型文件
