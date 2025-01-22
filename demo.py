@@ -7,3 +7,4 @@ print(t5trans.trans_ch2en('你好，世界'))
 print(t5trans.trans_en2ru('hello world'))
 print(t5trans.trans_ru2en('Здравствуйте, мир'))
 
+
